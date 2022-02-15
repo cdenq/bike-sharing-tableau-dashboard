@@ -1,5 +1,4 @@
-# tableau-challenge
-
+# bike-sharing-tableau-dashboard
 ## About CitiBike Analysis
 
 `CitiBike Analysis` is a Tableau project that analyzes 650k data points of CitiBike travel data over the 12 months in 2021 and elaborates on potential business improvements. The final story can be found here: https://public.tableau.com/app/profile/christopher.denq/viz/CitiBikeAnalysis-ChristopherDenq/MostPopularRides
